@@ -6,4 +6,4 @@ This is a paragraph with a misspelled word: "proccess" instead of "process".
 
 Here's another sentence with a grammatical error: "The cat are sleeping."
 
-Feel free to use this file for testing your GitHub Action workflow.
+ Feel free to use this file for testing your GitHub Action workflow.
